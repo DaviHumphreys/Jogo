@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635214406 source:c:\users\davi\desktop\prog\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
