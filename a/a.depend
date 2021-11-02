@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635734960 source:e:\projetos_progamacao\teste\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
