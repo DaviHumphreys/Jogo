@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635890420 source:e:\projetos_progamacao\ojogo\ojogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
