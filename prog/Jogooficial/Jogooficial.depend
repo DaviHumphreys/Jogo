@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635812865 source:c:\users\davi\desktop\prog\jogooficial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
