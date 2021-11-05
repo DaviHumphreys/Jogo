@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636059694 source:e:\projetos_progamacao\teste\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
